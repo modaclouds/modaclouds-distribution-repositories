@@ -1,11 +1,12 @@
 
 .*
 !/.gitignore
+!/.gitmodules
 !/.scripts
 !/.scripts/**
 
-!/repositories/.mosaic-repositories
 !/repositories/.modaclouds-repositories
+!/repositories/.mosaic-repositories
 
 *#
 *~
