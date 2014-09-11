@@ -1,18 +1,18 @@
 [submodule "repositories/modaclouds-mos-platform-packages"]
 	path = repositories/modaclouds-mos-platform-packages
-	url = https://github.com/cipriancraciun/modaclouds-mos-platform-packages.git
+	url = ../modaclouds-mos-platform-packages.git
 [submodule "repositories/modaclouds-components-monitoring-sda-weka"]
 	path = repositories/modaclouds-components-monitoring-sda-weka
-	url = https://github.com/cipriancraciun/modaclouds-components-monitoring-sda-weka.git
+	url = ../modaclouds-components-monitoring-sda-weka.git
 [submodule "repositories/modaclouds-components-monitoring-sda-matlab"]
 	path = repositories/modaclouds-components-monitoring-sda-matlab
-	url = https://github.com/cipriancraciun/modaclouds-components-monitoring-sda-matlab.git
+	url = ../modaclouds-components-monitoring-sda-matlab.git
 [submodule "repositories/modaclouds-components-monitoring-manager"]
 	path = repositories/modaclouds-components-monitoring-manager
-	url = https://github.com/cipriancraciun/modaclouds-components-monitoring-manager.git
+	url = ../modaclouds-components-monitoring-manager.git
 [submodule "repositories/modaclouds-components-monitoring-dda"]
 	path = repositories/modaclouds-components-monitoring-dda
-	url = https://github.com/cipriancraciun/modaclouds-components-monitoring-dda.git
+	url = ../modaclouds-components-monitoring-dda.git
 [submodule "repositories/modaclouds-components-knowledgebase"]
 	path = repositories/modaclouds-components-knowledgebase
-	url = https://github.com/cipriancraciun/modaclouds-components-knowledgebase.git
+	url = ../modaclouds-components-knowledgebase.git
