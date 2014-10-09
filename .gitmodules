@@ -16,3 +16,9 @@
 [submodule "repositories/modaclouds-components-knowledgebase"]
 	path = repositories/modaclouds-components-knowledgebase
 	url = ../modaclouds-components-knowledgebase.git
+[submodule "repositories/modaclouds-components-metric-explorer"]
+	path = repositories/modaclouds-components-metric-explorer
+	url = ../modaclouds-components-metric-explorer.git
+[submodule "repositories/modaclouds-components-metric-importer"]
+	path = repositories/modaclouds-components-metric-importer
+	url = ../modaclouds-components-metric-importer.git
