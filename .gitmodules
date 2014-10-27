@@ -22,3 +22,6 @@
 [submodule "repositories/modaclouds-components-metric-importer"]
 	path = repositories/modaclouds-components-metric-importer
 	url = ../modaclouds-components-metric-importer.git
+[submodule "repositories/modaclouds-components-platform-wrappers"]
+	path = repositories/modaclouds-components-platform-wrappers
+	url = ../modaclouds-components-platform-wrappers.git
