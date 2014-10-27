@@ -1,27 +1,6 @@
 [submodule "repositories/modaclouds-mos-platform-packages"]
 	path = repositories/modaclouds-mos-platform-packages
 	url = ../modaclouds-mos-platform-packages.git
-[submodule "repositories/modaclouds-components-monitoring-sda-weka"]
-	path = repositories/modaclouds-components-monitoring-sda-weka
-	url = ../modaclouds-components-monitoring-sda-weka.git
-[submodule "repositories/modaclouds-components-monitoring-sda-matlab"]
-	path = repositories/modaclouds-components-monitoring-sda-matlab
-	url = ../modaclouds-components-monitoring-sda-matlab.git
-[submodule "repositories/modaclouds-components-monitoring-manager"]
-	path = repositories/modaclouds-components-monitoring-manager
-	url = ../modaclouds-components-monitoring-manager.git
-[submodule "repositories/modaclouds-components-monitoring-dda"]
-	path = repositories/modaclouds-components-monitoring-dda
-	url = ../modaclouds-components-monitoring-dda.git
-[submodule "repositories/modaclouds-components-knowledgebase"]
-	path = repositories/modaclouds-components-knowledgebase
-	url = ../modaclouds-components-knowledgebase.git
-[submodule "repositories/modaclouds-components-metric-explorer"]
-	path = repositories/modaclouds-components-metric-explorer
-	url = ../modaclouds-components-metric-explorer.git
-[submodule "repositories/modaclouds-components-metric-importer"]
-	path = repositories/modaclouds-components-metric-importer
-	url = ../modaclouds-components-metric-importer.git
 [submodule "repositories/modaclouds-components-platform-wrappers"]
 	path = repositories/modaclouds-components-platform-wrappers
 	url = ../modaclouds-components-platform-wrappers.git
